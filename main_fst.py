@@ -1,11 +1,10 @@
 # Matthew Hopwood
 # EDF Project
-# Finding optimum Bypass ratio for max efficiency
+# Finding optimum Bypass ratio for max thrust
 
 import matplotlib.pyplot as plt
 import isentropic as isn
 import Turbojet as tj
-import Turbofan as tf
 
 # Assume Ideal Expansion
 # Ambient Conditions for Sea Level
